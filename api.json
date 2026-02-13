@@ -1,10 +1,8 @@
 {
-  "category": "CRYPTID",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/mongolian-death-worm",
     "maintainers": [
       {
@@ -18,437 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "mongolian-death-worm",
     "name": "Mongolian Death Worm",
-    "aliases": [
-      {
-        "name": "Olgoi-Khorkhoi",
-        "language": "Mongolian",
-        "region": "Mongolia",
-        "meaning": "large intestine worm"
-      },
-      {
-        "name": "Allergorhai-horhai",
-        "language": "Mongolian",
-        "region": "Mongolia"
-      }
-    ],
-    "category": "CRYPTID",
-    "subcategory": "Unknown Animal",
+    "aliases": [],
+    "category": "|_OTHER_UNKNOWN_CREATURES_REPORTED_FROM_DESERT_REGIONS_|",
+    "subcategory": "Worm/Reptile",
     "tags": [
-      "desert-cryptid",
-      "mongolian",
-      "deadly",
-      "worm",
-      "gobi-desert",
-      "cryptozoology",
-      "poisonous"
+      "folklore",
+      "mythology"
     ],
-    "status": "unconfirmed",
+    "status": "documented",
     "description": {
-      "summary": "A legendary creature from the Gobi Desert described as a 2-5 foot long, thick worm resembling a cow's intestine. Local accounts claim it can spit corrosive acid and deliver electric shocks, killing at a distance.",
-      "full": "The Mongolian Death Worm, known locally as 'olgoi-khorkhoi' (large intestine worm), is a cryptid creature reported from the Gobi Desert of Mongolia. Described as 2-5 feet long and as thick as a man's arm, the creature is dark red in color and resembles a blood-filled cow intestine. It reportedly has no visible eyes, mouth, or head, appearing as a nearly featureless cylindrical worm. According to Mongolian herders and locals, the death worm possesses deadly abilities: it can spit a corrosive yellow venom that causes severe burns and death, and it can allegedly deliver powerful electric shocks that kill both humans and animals from a distance. The creature is said to live deep in the sand dunes of the southern Gobi Desert, emerging only during the brief rainy season (typically June-July) when the desert blooms. Mongolians who live in the region genuinely fear the creature and advise avoiding it at all costs. Multiple scientific expeditions have searched for the death worm, including the 2005 Centre for Fortean Zoology expedition and various other investigations, but none have produced physical evidence. Theories about the death worm range from it being an unknown species of worm or amphisbaenid (worm lizard), to a death adder or other known animal, to pure folklore. Despite lack of scientific verification, local testimonies remain remarkably consistent across generations."
+      "summary": "The Mongolian Death Worm, known locally as **olgoi-khorkhoi** (large intestine worm), is a cryptid creature reported from the Gobi Desert of Mongolia.",
+      "full": "The Mongolian Death Worm, known locally as **olgoi-khorkhoi** (large intestine worm), is a cryptid creature reported from the Gobi Desert of Mongolia. Described as 2-5 feet long and as thick as a man's arm, the creature is dark red in color and resembles a blood-filled cow intestine. It reportedly has no visible eyes, mouth, or head, appearing as a nearly featureless cylindrical worm. According to Mongolian herders and locals, the death worm possesses deadly abilities: Mongolians who live in the region genuinely fear the creature and advise avoiding it at all costs. Multiple scientific expeditions have searched for the death worm but found no physical evidence."
     },
     "etymology": {
-      "origin": "Mongolian 'olgoi-khorkhoi' combining 'olgoi' (large intestine) and 'khorkhoi' (worm)",
-      "meaning": "Large intestine worm, named for its resemblance to a blood-filled cow intestine",
-      "first_use": "Traditional Mongolian folklore"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
-      "category": "CRYPTID",
-      "type": "Unknown Animal",
-      "subtype": "Worm/Reptile",
-      "variant": "Desert Cryptid"
+      "category": "|_OTHER_UNKNOWN_CREATURES_REPORTED_FROM_DESERT_REGIONS_|",
+      "type": "Worm/Reptile",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "desert-cryptids",
-        "name": "Desert Cryptids",
-        "relationship": "category",
-        "description": "Other unknown creatures reported from desert regions"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "height": {
-        "min": 0.6,
-        "max": 1.5,
-        "unit": "meters",
-        "confidence": "low"
-      },
-      "weight": {
-        "min": 2,
-        "max": 10,
-        "unit": "kilograms",
-        "confidence": "low"
-      },
-      "coloration": [
-        "dark red",
-        "blood red",
-        "brownish-red"
-      ],
-      "features": [
-        {
-          "feature": "Body",
-          "description": "Thick cylindrical body resembling cow intestine, 2-5 feet long, as thick as man's arm",
-          "frequency": "always"
-        },
-        {
-          "feature": "Head",
-          "description": "No visible head, eyes, or mouth; appears nearly featureless",
-          "frequency": "always"
-        },
-        {
-          "feature": "Skin",
-          "description": "Smooth or slightly ridged, dark red appearance",
-          "frequency": "always"
-        },
-        {
-          "feature": "Ends",
-          "description": "Both ends appear similar, difficult to distinguish head from tail",
-          "frequency": "common"
-        }
-      ],
-      "morphology": "Cylindrical, worm-like body with no obvious differentiation between head and tail. No visible appendages, eyes, or mouth. Appearance resembles blood-filled intestine."
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Corrosive venom",
-        "description": "Spits yellow corrosive acid causing severe burns and death",
-        "frequency": "reported",
-        "evidence_level": "claimed"
-      },
-      {
-        "ability": "Electric shock",
-        "description": "Delivers powerful electric shocks killing at distance",
-        "frequency": "reported",
-        "evidence_level": "claimed"
-      },
-      {
-        "ability": "Burrowing",
-        "description": "Lives underground in sand, emerging only rarely",
-        "frequency": "common",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Distance killing",
-        "description": "Can allegedly kill humans and animals without direct contact",
-        "frequency": "reported",
-        "evidence_level": "claimed"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "seasonal",
-      "disposition": "aggressive",
-      "social_structure": "solitary",
-      "habitat_preference": [
-        "sand dunes",
-        "desert",
-        "underground burrows"
-      ],
-      "diet": "Unknown",
-      "patterns": [
-        "Emerges during rainy season (June-July)",
-        "Lives deep in sand dunes",
-        "Rarely seen",
-        "Avoids human contact when possible",
-        "Deadly when encountered",
-        "Active when desert plants bloom"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Reported exclusively from the Gobi Desert of southern Mongolia, particularly in remote sand dune regions.",
-      "continents": ["Asia"],
-      "countries": ["Mongolia"],
-      "regions": [
-        "Gobi Desert",
-        "Southern Mongolia",
-        "Remote sand dune areas"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
-    "hotspots": [
-      {
-        "name": "Southern Gobi Desert",
-        "location": {
-          "description": "Sand dune regions of southern Gobi",
-          "country": "Mongolia",
-          "region": "Southern Gobi",
-          "coordinates": {
-            "latitude": 43.0,
-            "longitude": 104.0,
-            "precision": "approximate"
-          }
-        },
-        "sighting_count": "numerous_local_accounts",
-        "peak_period": "June-July (rainy season)",
-        "notes": "Primary region for local accounts and expedition searches"
-      }
-    ],
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Traditional folklore",
+        "date": "Unknown",
         "circa": true,
-        "source": "Mongolian oral traditions"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "Rainy season (June-July)",
-          "description": "When creature reportedly emerges from underground"
-        }
-      ],
-      "seasonal_patterns": "Emerges during brief rainy season when desert blooms; underground rest of year"
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "The olgoi-khorkhoi is deeply rooted in Mongolian desert culture, particularly among nomadic herders who traverse the Gobi Desert. The creature has been part of oral traditions for generations.",
-      "earliest_accounts": "Traditional Mongolian folklore passed through generations of desert dwellers.",
-      "folklore_connections": "Part of broader Mongolian desert mythology and natural history beliefs."
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "Traditional era",
-        "event": "Mongolian folklore establishment",
-        "significance": "Olgoi-khorkhoi becomes established in Mongolian culture",
-        "source": "Oral traditions"
-      },
-      {
-        "date": "1926",
-        "event": "Western documentation begins",
-        "significance": "Roy Chapman Andrews documents death worm accounts in 'On the Trail of Ancient Man'",
-        "source": "Andrews' book"
-      },
-      {
-        "date": "1990s",
-        "event": "Czech expeditions",
-        "significance": "Ivan Mackerle leads expeditions searching for death worm",
-        "source": "Expedition reports"
-      },
-      {
-        "date": "2005",
-        "event": "Centre for Fortean Zoology expedition",
-        "significance": "British cryptozoologists search Gobi Desert for death worm",
-        "source": "CFZ expedition reports"
-      },
-      {
-        "date": "2000s-present",
-        "event": "Ongoing interest",
-        "significance": "Continued expeditions and investigations yield no physical evidence",
-        "source": "Various expedition reports"
-      }
-    ],
-    "modern_era": "The Mongolian Death Worm remains a target of cryptozoological investigation. While multiple expeditions have searched for it and locals maintain consistent accounts, no physical evidence has been obtained. The creature maintains status as one of the more intriguing desert cryptids."
+    "timeline": []
   },
-
   "sightings": {
     "statistics": {
-      "total_documented": "numerous_local_accounts",
+      "total_documented": 0,
       "verified": 0,
-      "disputed": "most",
-      "debunked": 0,
-      "date_range": {
-        "earliest": "Traditional folklore",
-        "latest": "Recent decades"
-      }
+      "disputed": 0,
+      "debunked": 0
     },
-    "notable": [
-      {
-        "id": "mdw-local-accounts",
-        "name": "Mongolian Herder Accounts",
-        "date": {
-          "value": "Ongoing",
-          "precision": "ongoing"
-        },
-        "location": {
-          "description": "Southern Gobi Desert sand dune regions",
-          "country": "Mongolia",
-          "region": "Gobi Desert"
-        },
-        "witnesses": {
-          "count": "numerous",
-          "types": ["Mongolian herders", "Desert dwellers", "Nomads"],
-          "credibility_factors": ["Consistent descriptions", "Multi-generational accounts", "Genuine local fear"]
-        },
-        "description": "Consistent accounts from Mongolian herders describe a thick, red worm-like creature 2-5 feet long that lives in sand dunes and emerges during rainy season. Locals report it can spit acid and deliver electric shocks. The creature is genuinely feared, and locals advise extreme caution.",
-        "conditions": {
-          "weather": "Rainy season conditions",
-          "visibility": "Desert environment",
-          "time_of_day": "Varies",
-          "duration": "Brief encounters"
-        },
-        "evidence": [
-          "Consistent local testimonies",
-          "Multi-generational accounts",
-          "Cultural knowledge"
-        ],
-        "credibility": {
-          "rating": "low_to_medium",
-          "factors": [
-            "Consistent descriptions across witnesses",
-            "Genuine local belief and fear",
-            "No physical evidence obtained",
-            "No photographs or specimens",
-            "Fantastical abilities (acid, electricity)"
-          ],
-          "notes": "Local accounts are remarkably consistent, and Mongolians genuinely believe in and fear this creature. However, multiple expeditions have found no physical evidence."
-        },
-        "sources": [
-          "Local accounts collected by researchers",
-          "Expedition interviews",
-          "Cultural documentation"
-        ],
-        "featured": true
-      }
-    ],
+    "notable": [],
     "database_path": "./sightings/"
   },
-
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": [],
-    "testimonial": [
-      {
-        "type": "eyewitness_accounts",
-        "description": "Consistent local Mongolian testimonies spanning generations",
-        "status": "uncorroborated"
-      }
-    ]
+    "trace": []
   },
-
   "theories": {
     "paranormal": [],
-    "scientific": [
-      {
-        "name": "Unknown worm species",
-        "description": "An undiscovered large worm or annelid species adapted to desert conditions",
-        "proponents": ["Some cryptozoologists"],
-        "evidence_cited": ["Consistent descriptions", "Possible unknown species in remote desert"]
-      },
-      {
-        "name": "Amphisbaenid (worm lizard)",
-        "description": "A large species of amphisbaenid, a group of legless burrowing reptiles",
-        "proponents": ["Herpetologists", "Cryptozoologists"],
-        "evidence_cited": ["Amphisbaenids exist in the region", "Worm-like appearance matches", "Burrowing behavior"]
-      },
-      {
-        "name": "Death adder or snake",
-        "description": "Misidentification of a known venomous snake, possibly death adder",
-        "proponents": ["Skeptical zoologists"],
-        "evidence_cited": ["Known snakes in region", "Exaggeration of abilities"]
-      }
-    ],
-    "skeptical": [
-      {
-        "name": "Folklore exaggeration",
-        "description": "Folk tale based on known animals with abilities exaggerated over time",
-        "proponents": ["Skeptics"],
-        "evidence_cited": ["No physical evidence despite searches", "Fantastical abilities", "Folklore context"]
-      },
-      {
-        "name": "No creature exists",
-        "description": "Pure mythology with no basis in real animal",
-        "proponents": ["Mainstream science"],
-        "evidence_cited": ["Multiple expeditions found nothing", "No photographs", "Implausible abilities"]
-      }
-    ]
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Warnings to avoid olgoi-khorkhoi",
-        "Stories passed through herder families",
-        "Desert travel cautions"
-      ],
-      "stories": [
-        "Herders killed by electric shock",
-        "Animals burned by acid spray",
-        "Creatures emerging after rain",
-        "Dangers of touching the worm"
-      ],
-      "beliefs": "Mongolian herders genuinely believe the death worm exists and is extremely dangerous. Many refuse to discuss it or advise complete avoidance of areas where it's reported."
-    },
-    "indigenous": {
-      "cultures": [
-        "Mongolian nomadic herders",
-        "Gobi Desert peoples"
-      ],
-      "significance": "The olgoi-khorkhoi is part of Mongolian natural history understanding and desert safety traditions.",
-      "sensitivity_note": "Respect for Mongolian traditional knowledge and cultural beliefs regarding desert creatures.",
-      "respect_guidelines": "Approach local accounts with respect, recognizing genuine belief and cultural significance."
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Roy Chapman Andrews' 'On the Trail of Ancient Man' (1926)",
-        "Cryptozoology books featuring the death worm"
-      ],
-      "film_tv": [
-        "Various cryptozoology documentaries",
-        "Horror films inspired by the creature"
-      ],
-      "games": [
-        "References in fantasy games"
-      ],
-      "other": [
-        "Cryptozoological expedition targets",
-        "Popular cryptid in Western culture"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
   "research": {
-    "researchers": [
-      {
-        "name": "Roy Chapman Andrews",
-        "affiliation": "American Museum of Natural History",
-        "contribution": "First Western documentation of death worm accounts",
-        "period": "1920s"
-      },
-      {
-        "name": "Ivan Mackerle",
-        "affiliation": "Czech researcher",
-        "contribution": "Led multiple expeditions to find death worm",
-        "period": "1990s"
-      },
-      {
-        "name": "Centre for Fortean Zoology team",
-        "affiliation": "CFZ",
-        "contribution": "2005 expedition to Gobi Desert",
-        "period": "2005"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Centre for Fortean Zoology",
-        "url": "https://www.cfz.org.uk",
-        "focus": "Cryptozoological research and expeditions"
-      }
-    ],
-    "ongoing_studies": "Occasional expeditions continue to search for evidence. Local accounts continue to be documented."
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "sources": [
-    {
-      "id": "andrews-1926",
-      "type": "book",
-      "title": "On the Trail of Ancient Man",
-      "authors": ["Roy Chapman Andrews"],
-      "publication": "G.P. Putnam's Sons",
-      "date": "1926"
-    }
-  ]
+  "sources": []
 }
