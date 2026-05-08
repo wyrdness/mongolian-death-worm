@@ -1,314 +1,173 @@
 # Mongolian Death Worm
 
-> *"Olgoi-khorkhoi — The dreaded intestine worm of the Gobi"*
+> The Mongolian Death Worm (olgoi-khorkhoi, 'large intestine worm') is a cryptid said to inhabit the Gobi Desert of Mongolia, described by Mongolian herders as a thick, dark-red, intestine-like worm credited with the ability to kill at a distance.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Sightings](https://img.shields.io/badge/local_accounts-numerous-orange)]()
-[![Status](https://img.shields.io/badge/status-unconfirmed-yellow)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-unverified-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `mongolian-death-worm` |
 | **Category** | CRYPTID |
-| **Classification** | Unknown Animal / Worm-Reptile |
-| **First Recorded** | Traditional Mongolian folklore |
-| **Primary Region** | Gobi Desert, Mongolia |
-| **Status** | Unconfirmed |
+| **Subcategory** | Worm / reptile cryptid |
+| **First recorded** | 1922 |
+| **Primary range** | The most desolate parts of the Gobi Desert, principally in southern and western Mongolia, with adjacent ranges sometimes mentioned in folklore |
+| **Status** | unverified |
 
 ---
-
 ## Overview
 
-The Mongolian Death Worm, known locally as **olgoi-khorkhoi** (large intestine worm), is a cryptid creature reported from the Gobi Desert of Mongolia. Described as 2-5 feet long and as thick as a man's arm, the creature is dark red in color and resembles a blood-filled cow intestine.
-
-It reportedly has no visible eyes, mouth, or head, appearing as a nearly featureless cylindrical worm. According to Mongolian herders and locals, the death worm possesses deadly abilities:
-
-- **Spits corrosive yellow venom** causing severe burns and death
-- **Delivers powerful electric shocks** killing at distance
-- **Lives deep in sand dunes**, emerging only during rainy season (June-July)
-
-Mongolians who live in the region genuinely fear the creature and advise avoiding it at all costs. Multiple scientific expeditions have searched for the death worm but found no physical evidence.
+The Mongolian Death Worm, called olgoi-khorkhoi (олгой-хорхой, 'large intestine worm') in Mongolian, is a cryptid reported from the Gobi Desert. According to Mongolian herders' accounts, the creature is roughly two feet (0.6 m) long, dark red, sausage-shaped, with no clearly distinguishable head or legs, resembling a section of cow intestine. It is said to live underground in the most desolate parts of the western or southern Gobi, surfacing rarely (sometimes after rainfall or near water sources) and producing detectable sand waves as it moves. It is credited in folklore with the ability to kill at a distance via venom-spraying or electric discharge. Western awareness of the legend dates to American naturalist and explorer Roy Chapman Andrews, whose 1926 book On the Trail of Ancient Man recounted second-hand accounts (notably from then-Prime Minister Damdinbazar in 1922) while expressing personal skepticism. Multiple expeditions have searched for the creature, including those of Czech researcher Ivan Mackerle (1990 and 1992), the Centre for Fortean Zoology (Richard Freeman, 2005), Destination Truth (2006-2007), and David Farrier (2009). None has produced physical evidence, and a 1983 study reported that locals identified the Tartar sand boa (Eryx tataricus) as a likely zoological referent for some descriptions.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Olgoi-khorkhoi | Mongolian / Gobi Desert | 'large intestine worm' |
+| Олгой-хорхой | Mongolian (Cyrillic) / Mongolia |  |
+| Allghoi khorkhoi | Mongolian (alt. transliteration) / Mongolia |  |
 
-### Primary Name
-- **Mongolian Death Worm** — Western name reflecting its deadly reputation
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Olgoi-Khorkhoi | Mongolian | "Large intestine worm" |
-| Allergorhai-horhai | Mongolian | Alternative Mongolian name |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: CRYPTID
-├── Type: Unknown Animal
-├── Subtype: Worm/Reptile
-└── Variant: Desert Cryptid
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| Desert Cryptids | Category | Other unknown creatures reported from desert regions |
+- **Origin**: Mongolian olgoi (large intestine) + khorkhoi (worm).
+- **Meaning**: 'Large intestine worm', from the creature's likeness to a section of cow intestine.
+- **First use**: Mongolian oral tradition; first widely cited Western use in Roy Chapman Andrews' 1926 book On the Trail of Ancient Man.
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Minhocão](../minhocao/) — _similar_: Brazilian giant earthworm cryptid
+- [Hoop snake](../hoopsnake/) — _similar_: American folkloric serpent with mythical abilities
+- [Buru](../buru/) — _related_: Indian Himalayan aquatic cryptid
 
-### Physical Description
+---
+## Physical Description
 
-| Attribute | Description | Confidence |
-|-----------|-------------|------------|
-| **Length** | 0.6 - 1.5 meters (2 - 5 feet) | Low |
-| **Thickness** | As thick as a man's arm | Low |
-| **Weight** | 2 - 10 kg (4 - 22 lbs) | Low |
-| **Coloration** | Dark red, blood red, brownish-red | Medium |
+- **Height**: 0.6–1.5 meters _(low confidence)_
+- **Coloration**: dark red, blood-red
+- **Morphology**: Limbless, cylindrical, dark-red worm-like body, said to be approximately the thickness of a man's arm and around 0.6 metres long.
 
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Body | Thick cylindrical body resembling cow intestine | Always |
-| Head | No visible head, eyes, or mouth; appears nearly featureless | Always |
-| Skin | Smooth or slightly ridged, dark red appearance | Always |
-| Ends | Both ends appear similar, difficult to distinguish head from tail | Common |
+|---|---|---|
+| Sausage / intestine shape | Roughly cylindrical, like a section of cow intestine; no clearly distinguishable head or legs | always |
+| Dark red coloration | Described by Mongolian herders as dark blood-red | always |
+| No visible eyes / mouth | Featureless ends; difficult to distinguish front from rear | always |
+| Sand-wave locomotion | Moves underground; surface sometimes rises in waves above its passage | common |
 
-### Reported Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Corrosive venom | Spits yellow corrosive acid causing severe burns and death | Claimed |
-| Electric shock | Delivers powerful electric shocks killing at distance | Claimed |
-| Burrowing | Lives underground in sand, emerging only rarely | Reported |
-| Distance killing | Can allegedly kill without direct contact | Claimed |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Venom spray (alleged) | Said in folklore to kill prey at a distance by spraying venom or acid | common | folklore |
+| Electric discharge (alleged) | Said in folklore to be capable of killing at a distance via electric shock | common | folklore |
+| Underground locomotion | Said to move primarily underground beneath the desert sand | common | folklore |
 
-### Behavioral Patterns
+## Behavior
 
-- **Activity Period**: Seasonal (rainy season: June-July)
-- **Disposition**: Aggressive (deadly to humans)
-- **Social Structure**: Solitary
-- **Habitat Preference**: Sand dunes, underground burrows
-- **Emergence Pattern**: Active when desert plants bloom after rain
+- **Activity**: variable
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: sand dunes, desolate areas of the Gobi Desert, below the surface
 
 ---
+## Distribution
 
-## Geographic Distribution
-
-### Primary Range
-
-Reported exclusively from the **Gobi Desert** of southern Mongolia, particularly in remote sand dune regions.
+The most desolate parts of the Gobi Desert, principally in southern and western Mongolia, with adjacent ranges sometimes mentioned in folklore.
 
 ### Hotspots
 
-| Location | Region | Activity Period | Notes |
-|----------|--------|-----------------|-------|
-| Southern Gobi Desert | Southern Mongolia | June-July (rainy season) | Primary region for local accounts |
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Gobi Desert | Gobi, Mongolia |  | Reported throughout 20th century |
 
 ---
-
 ## Historical Timeline
 
-### Origins
-
-The olgoi-khorkhoi is deeply rooted in Mongolian desert culture, particularly among nomadic herders who traverse the Gobi Desert. The creature has been part of oral traditions for generations.
-
-### Key Events
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| Traditional era | Mongolian folklore established | Olgoi-khorkhoi becomes established in Mongolian culture |
-| 1926 | Western documentation begins | Roy Chapman Andrews documents death worm accounts |
-| 1990s | Czech expeditions | Ivan Mackerle leads expeditions searching for death worm |
-| 2005 | Centre for Fortean Zoology expedition | British cryptozoologists search Gobi Desert |
-| 2000s-present | Ongoing interest | Continued expeditions yield no physical evidence |
-
-### Modern Era
-
-The Mongolian Death Worm remains a target of cryptozoological investigation. While multiple expeditions have searched for it and locals maintain consistent accounts, no physical evidence has been obtained.
+|---|---|---|
+| 1922 | Mongolian Prime Minister Damdinbazar describes the olgoi-khorkhoi to American explorer Roy Chapman Andrews | Earliest documented Western record |
+| 1926 | Andrews publishes On the Trail of Ancient Man, recounting Mongolian Death Worm legends while expressing personal skepticism | First Western popularisation of the legend |
+| 1983 | A study reports that local interview subjects identify the Tartar sand boa (Eryx tataricus) as a likely match for some olgoi-khorkhoi descriptions | Earliest serious zoological identification candidate |
+| 1990 | Czech researcher Ivan Mackerle leads a Gobi expedition using motor-driven 'thumpers' | Best-known Western expedition |
+| 1992 | Mackerle returns to the Gobi for a second expedition | Continuation of the Western expedition era |
+| 2005 | Centre for Fortean Zoology (Richard Freeman) expedition concludes the Tartar sand boa or worm lizards (amphisbaena) are the most plausible referents | Cryptozoological-skeptic conclusion |
+| 2009 | New Zealand journalist David Farrier visits Mongolia for an investigation; finds no evidence and notes that local sightings reportedly peaked in the 1950s | Modern journalistic investigation |
 
 ---
-
-## Local Accounts & Beliefs
-
-### Mongolian Testimonies
-
-Consistent accounts from Mongolian herders describe:
-
-- Thick, red worm-like creature 2-5 feet long
-- Lives in sand dunes
-- Emerges during rainy season
-- Can spit acid and deliver electric shocks
-- Genuinely feared—locals advise extreme caution
-
-**Credibility Note**: Local accounts are remarkably consistent, and Mongolians genuinely believe in and fear this creature. However, multiple expeditions have found no physical evidence.
-
-### Cultural Significance
-
-Among Mongolian herders:
-- Warnings to avoid olgoi-khorkhoi
-- Stories passed through families
-- Desert travel cautions
-- Part of natural history understanding
-
----
-
-## Evidence & Expeditions
-
-### Physical Evidence
-
-**Status**: None obtained
-
-Despite multiple expeditions:
-- No photographs
-- No specimens
-- No physical remains
-- No definitive tracks or traces
-
-### Major Expeditions
-
-| Year | Team | Result |
-|------|------|--------|
-| 1926 | Roy Chapman Andrews | First Western documentation of accounts |
-| 1990s | Ivan Mackerle (Czech) | Multiple expeditions, no physical evidence |
-| 2005 | Centre for Fortean Zoology | British expedition, no evidence found |
-
----
-
 ## Theories & Explanations
 
-### Cryptozoological Theories
+### Scientific
 
-1. **Unknown worm species**
-   An undiscovered large worm or annelid species adapted to desert conditions.
+**Tartar sand boa identification** _(1983 study (cited in Wikipedia), Centre for Fortean Zoology)_
 
-2. **Amphisbaenid (worm lizard)**
-   A large species of amphisbaenid—legless burrowing reptiles that exist in the region.
+The non-venomous Tartar sand boa (Eryx tataricus), a fossorial snake of central Asia, fits some olgoi-khorkhoi descriptions and was identified by local interview subjects in a 1983 study as a candidate.
 
-3. **Death adder or snake**
-   Misidentification of a known venomous snake with exaggerated abilities.
+**Worm lizard / amphisbaena identification** _(Richard Freeman / Centre for Fortean Zoology)_
 
-### Skeptical Explanations
+Richard Freeman of the Centre for Fortean Zoology has argued that worm lizards (amphisbaenians) are a plausible zoological referent for the olgoi-khorkhoi.
 
-1. **Folklore exaggeration**
-   Folk tale based on known animals with abilities exaggerated over time.
+### Skeptical
 
-2. **No creature exists**
-   Pure mythology with no basis in real animal—no physical evidence despite searches, fantastical abilities.
+**Folklore without verifiable specimen** _(Roy Chapman Andrews (1926), Various skeptical commentators)_
 
----
+Despite multiple expeditions over more than a century, no specimen, photograph or unambiguous physical evidence has been produced; the death worm is best treated as Gobi folklore.
 
-## Notable Researchers
 
-### Roy Chapman Andrews
-- **Affiliation**: American Museum of Natural History
-- **Contribution**: First Western documentation of death worm accounts in "On the Trail of Ancient Man" (1926)
+## Indigenous Perspectives
 
-### Ivan Mackerle
-- **Affiliation**: Czech researcher
-- **Contribution**: Led multiple expeditions to find death worm in 1990s
+> ⚠️ **Mongolian framing of the olgoi-khorkhoi is part of a living cultural tradition rather than a curiosity to be paraded; Western cryptozoological framing should not flatten that.**
 
-### Centre for Fortean Zoology
-- **Expedition**: 2005 Gobi Desert expedition
-- **Result**: No evidence found, but local accounts documented
+**Cultures**: Mongolian herder communities of the Gobi
+
+Embedded in long-standing Gobi-region folk belief about the dangers of the desert.
+
+_Guidelines: Engage Mongolian researchers and herder communities directly; cite Mongolian sources where possible._
+
+## Popular Culture
+
+**Literature**: On the Trail of Ancient Man — Roy Chapman Andrews (1926)
+
+**Film / TV**: Destination Truth: Mongolian Death Worm episode (2006-2007); Mongolian Death Worm (2010 Syfy original film)
 
 ---
+## Research
 
-## Safety & Precautions
+### Researchers
 
-### According to Local Tradition
-
-If in the Gobi Desert during rainy season:
-- Avoid remote sand dune areas
-- Listen to local warnings
-- Respect Mongolian knowledge and caution
-- Do not approach if encountered
-
-**Alleged dangers**:
-- Corrosive acid spray
-- Electric shock at distance
-- Fatal contact
-
-**Note**: These are traditional beliefs. No verified attacks have been scientifically documented.
-
----
-
-## Research & Investigation
-
-### Ongoing Studies
-
-Occasional expeditions continue to search for evidence. Local accounts continue to be documented by researchers and anthropologists.
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Roy Chapman Andrews | American Museum of Natural History | First Western popularisation of the legend in On the Trail of Ancient Man (1926) | 1920s |
+| Ivan Mackerle | Independent (Czech) | Two Gobi expeditions (1990, 1992) seeking the death worm | 1990s |
+| Richard Freeman | Centre for Fortean Zoology | 2005 Gobi expedition; argued worm lizards / sand boas as the likely referent | 2000s |
+| David Farrier | New Zealand journalist (independent) | 2009 Mongolian field investigation | 2009 |
 
 ### Organizations
 
-- **Centre for Fortean Zoology** — Cryptozoological research and expeditions
+- [Centre for Fortean Zoology](https://www.cfz.org.uk) — British cryptozoology organisation that has investigated the Mongolian Death Worm
+
+Limited ongoing field work; the death worm is now mostly invoked in retrospective cryptozoology and Mongolian folklore scholarship.
 
 ---
+## Sources
 
-## API Reference
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-Machine-readable data is available in [`api.json`](api.json).
 
-### Data Access
+## How to Report a Sighting
 
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const deathWorm = await wyrd.getPhenomenon('mongolian-death-worm');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/mongolian-death-worm/main/api.json
-```
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Primary Sources
-- Andrews, R.C. (1926). *On the Trail of Ancient Man*
-- CFZ expedition reports (2005)
-- Mongolian herder testimonies
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Report Sighting](../../issues/new) • [Suggest Correction](../../issues/new) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
